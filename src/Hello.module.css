@@ -1,5 +1,9 @@
 h1{
-    color: springgreen;
+    color:springgreen;
     background: #000;
     text-align: center;
+    padding:10px;
+    border-radius: 10px;
+    width:500px;
+    margin:auto;
 }

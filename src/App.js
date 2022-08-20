@@ -1,4 +1,5 @@
 import React from 'react'
+import style from './Hello.module.css';
 
 export default function App() {
   return (
