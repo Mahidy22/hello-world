@@ -3,7 +3,7 @@ import React from 'react'
 export default function App() {
   return (
     <div>
-      HELLO
+      <h1>WELLCOME</h1>
     </div>
   )
 }
